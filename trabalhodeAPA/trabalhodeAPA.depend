@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1492566169 source:/home/venus/2017.1/trabalhodeAPA/main.cpp
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	"funcionario.h"
+
+1492565491 /home/venus/2017.1/trabalhodeAPA/include/funcionario.h
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1492566335 source:/home/venus/2017.1/trabalhodeAPA/src/funcionario.cpp
+	"funcionario.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1492806526 source:/home/fpiubello/Documentos/trabalhoapa-20170419T115103Z-001/trabalhoapa/trabalhodeAPA/main.cpp
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	"funcionario.h"
+	<random>
+	<time.h>
+
+1492805770 /home/fpiubello/Documentos/trabalhoapa-20170419T115103Z-001/trabalhoapa/trabalhodeAPA/include/funcionario.h
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1492806913 source:/home/fpiubello/Documentos/trabalhoapa-20170419T115103Z-001/trabalhoapa/trabalhodeAPA/src/funcionario.cpp
+	"funcionario.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	<random>
+	<time.h>
+
+1492893313 source:/home/fpiubello/Documentos/Trabalho APA 2.0/trabalhoapa/trabalhodeAPA/main.cpp
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	"funcionario.h"
+	<ctime>
+
+1492892504 /home/fpiubello/Documentos/Trabalho APA 2.0/trabalhoapa/trabalhodeAPA/include/funcionario.h
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1492906263 source:/home/fpiubello/Documentos/Trabalho APA 2.0/trabalhoapa/trabalhodeAPA/src/funcionario.cpp
+	"funcionario.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	<random>
+	<time.h>
+
+1492958734 source:/home/athena/leticia/trabalhodeAPA/src/funcionario.cpp
+	"funcionario.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	<random>
+	<time.h>
+
+1492891984 /home/athena/leticia/trabalhodeAPA/include/funcionario.h
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1492961131 source:/home/athena/leticia/trabalhodeAPA/main.cpp
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	"funcionario.h"
+	<ctime>
+	<string>
+
+1492972085 source:/home/venus/2017.1/leticia/trabalhodeAPA/main.cpp
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	"funcionario.h"
+	<ctime>
+	<string>
+
+1492972085 /home/venus/2017.1/leticia/trabalhodeAPA/include/funcionario.h
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1492972085 source:/home/venus/2017.1/leticia/trabalhodeAPA/src/funcionario.cpp
+	"funcionario.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	<random>
+	<time.h>
+

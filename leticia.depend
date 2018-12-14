@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489368222 source:/home/venus/2017.1/leticia/main.cpp
+	<iostream>
+	<stdio.h>
+	<iostream>
+
